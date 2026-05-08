@@ -836,7 +836,7 @@ body {
     perspective: 2000px;
     transition: all 0.5s;
 }
-}
+
 .boxMail .boxMail-container:hover{
     transform: rotate(-5deg);
     filter: drop-shadow(0 0 10px #FF7882);
@@ -922,7 +922,7 @@ body {
     font-family: "Inter", serif;
     color: #fff;
 }
-}
+
 .boxMail .boxMail-container:hover .card2-content{
     transform: translate(20px, 20px);
     box-shadow: -1px -1px 5px rgb(0, 0, 0, 0.4);
